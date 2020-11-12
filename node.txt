@@ -1,0 +1,3 @@
+paypal
+customer1_amazona@example.com
+customer1
